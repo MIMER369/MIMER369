@@ -4,7 +4,7 @@ Welcome to my GitHub profile. My work is organized below by category — more pr
 
 ## 🚀 Projects
 
-- **tclr-v1** — _Coming soon._
+- **[TCLR-V1](https://github.com/MIMER369/TCLR-V1)** — Mobile robot controller app built with Flutter (private repo).
 - **[aurora-e-commerce-chatbot](https://github.com/MIMER369/aurora-e-commerce-chatbot)** — An e-commerce chatbot project (in progress).
 
 ## 🎨 Design
@@ -26,6 +26,8 @@ _Coming soon._
 ## 📱 Mobile App Development
 
 - **[vakwork-app](https://github.com/MIMER369/vakwork-app)** — A Flutter mobile app (private repo).
+- **[TCLR-CONTROLLER---APP](https://github.com/MIMER369/TCLR-CONTROLLER---APP)** — Flutter-based mobile app, companion controller for the TCLR robot (private repo).
+- **[uravu-app](https://github.com/MIMER369/uravu-app)** — A Flutter family management app (private repo).
 ## Hi there 👋
 
 <!--
