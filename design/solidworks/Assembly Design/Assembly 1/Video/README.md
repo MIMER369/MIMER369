@@ -1,3 +1,3 @@
-# ASSEMBLY IAMGE AND VIDEO
+# ASSEMBLY IMAGE AND VIDEO
 
-This folder contains video files related to Assembly 1.
+This folder contains image,video files related to Assembly 1.
