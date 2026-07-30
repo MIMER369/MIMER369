@@ -11,8 +11,8 @@ Welcome to my GitHub profile. My work is organized below by category — more pr
 
 - **[design/solidworks](https://github.com/MIMER369/MIMER369/tree/main/design/solidworks)** — SolidWorks part and assembly design files (.SLDPRT / .SLDASM), organized as part of my design portfolio.
   - **[Part Design](https://github.com/MIMER369/MIMER369/tree/main/design/solidworks/Part%20Design)** — Individual part designs (Part 1–5 so far).
-  - **[assembly](https://github.com/MIMER369/MIMER369/tree/main/design/solidworks/assembly)** — Assembly designs (in progress).
-- Fusion 360 and other CAD tools — coming soon.
+  - **[Assembly Design](https://github.com/MIMER369/MIMER369/tree/main/design/solidworks/Assembly%20Design)** — Assembly designs, including Assembly 1 and video documentation.
+  -  Fusion 360 and other CAD tools — coming soon.
 
 ## ⚙️ PLC & Automation
 
